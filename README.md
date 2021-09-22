@@ -1,7 +1,7 @@
 # Digital-Junk
 Digital Junk is the backend implementation of E-commerce application.
 Resources used-
-1. NodeJS
+1. NodeJS \n
 2.ExpressJS
 3.MongoDB
 4.Mongoose
